@@ -1,6 +1,3 @@
-[submodule "MealBridge-App"]
-	path = MealBridge-App
-	url = https://github.com/Fullmoons17/MealBridge-App
 [submodule "SDD/UI/MealBridge-App"]
 	path = SDD/UI/MealBridge-App
 	url = https://github.com/Fullmoons17/MealBridge-App
