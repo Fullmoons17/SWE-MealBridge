@@ -1,0 +1,1 @@
+This folder contains SDD documents and more details about User Interface and codes for it, for both app and web versions.

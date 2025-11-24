@@ -1,0 +1,1 @@
+This folder contains Meeting Agenda document which contains all information about our meetings.
