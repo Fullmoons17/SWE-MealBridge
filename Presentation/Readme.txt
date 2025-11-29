@@ -1,1 +1,1 @@
-This folder contains the projects presentation slides.
+This folder contains the project's presentation slides.
